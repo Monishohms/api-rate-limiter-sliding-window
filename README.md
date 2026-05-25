@@ -142,14 +142,7 @@ Main.java
 
 ### Request Denied
 
-```text
-============================================================
-INCOMING API REQUEST
-User ID        : 101
-Request Status : DENIED
-Reason         : Rate Limit Exceeded
-============================================================
-```
+<img width="1102" height="151" alt="im3" src="https://github.com/user-attachments/assets/1915c903-a2ed-41c0-a3bd-6da571fc8a1e" />
 
 ### Sliding Window Expiration
 <img width="847" height="442" alt="im2" src="https://github.com/user-attachments/assets/2a11699d-c013-47b3-824b-3dfcad760664" />
