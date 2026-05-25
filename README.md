@@ -137,15 +137,18 @@ Main.java
 
 ### Request Accepted
 
-<img width="1071" height="570" alt="im1" src="https://github.com/user-attachments/assets/7c8049bd-9b4d-4be8-9d66-84bb1af6105b" />
+<img width="1253" height="570" alt="im1" src="https://github.com/user-attachments/assets/a1534c7a-e122-470e-ac65-57fbdb2b8e54" />
+
 
 
 ### Request Denied
 
-<img width="1102" height="151" alt="im3" src="https://github.com/user-attachments/assets/1915c903-a2ed-41c0-a3bd-6da571fc8a1e" />
+<img width="1018" height="147" alt="im2" src="https://github.com/user-attachments/assets/39e59ab2-ce7d-47db-a33f-4272380ace00" />
+
 
 ### Sliding Window Expiration
-<img width="847" height="442" alt="im2" src="https://github.com/user-attachments/assets/2a11699d-c013-47b3-824b-3dfcad760664" />
+<img width="698" height="436" alt="im3" src="https://github.com/user-attachments/assets/66b7f186-e39a-4324-963f-53ad1b981acd" />
+
 
 
 ---
