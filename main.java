@@ -13,7 +13,7 @@ public class main {
         rateLimiter.allowRequest(202);
         rateLimiter.allowRequest(303);
         rateLimiter.allowRequest(404);
-        Thread.sleep(12000);
+        Thread.sleep(12000); // pauses execution for 12sec
         rateLimiter.allowRequest(101);
 
     }

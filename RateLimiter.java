@@ -2,7 +2,7 @@ import java.util.*;
 
 public class RateLimiter {
     static int reqCapacity = 5;
-    static long windowSize = 10000; // 1sec = 1000 ms so, 10sec = 10*1000 ms
+    static long windowSize = 10000; // 1sec = 1000ms so, 10sec = 10*1000ms
     static Map<Integer, Queue<Long>> reqInfo = new HashMap<>();
 
     public static void allowRequest(int userId) {
