@@ -137,14 +137,8 @@ Main.java
 
 ### Request Accepted
 
-```text
-============================================================
-INCOMING API REQUEST
-User ID        : 101
-Request Status : ACCEPTED
-Reason         : Within Rate Limit
-============================================================
-```
+<img width="1071" height="570" alt="im1" src="https://github.com/user-attachments/assets/7c8049bd-9b4d-4be8-9d66-84bb1af6105b" />
+
 
 ### Request Denied
 
@@ -158,14 +152,8 @@ Reason         : Rate Limit Exceeded
 ```
 
 ### Sliding Window Expiration
+<img width="847" height="442" alt="im2" src="https://github.com/user-attachments/assets/2a11699d-c013-47b3-824b-3dfcad760664" />
 
-```text
-============================================================
-SLIDING WINDOW UPDATE
-Expired Requests Removed Successfully
-Window Status : Updated
-============================================================
-```
 
 ---
 
