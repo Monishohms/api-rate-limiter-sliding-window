@@ -5,7 +5,7 @@ public class RateLimiter {
     static long windowSize = 10000; // 1sec = 1000ms so, 10sec = 10*1000ms
     static Map<Integer, Queue<Long>> reqInfo = new HashMap<>();
 
-    public static void allowRequest(int userId) {
+    public void allowRequest(int userId) {
         long currentTime = System.currentTimeMillis();
         boolean isExistingUser = reqInfo.containsKey(userId);
         if (!isExistingUser) {
@@ -41,7 +41,7 @@ public class RateLimiter {
 
     }
 
-    public static void removeExpiredRequests(Queue<Long> queue, long currentTime) {
+    public void removeExpiredRequests(Queue<Long> queue, long currentTime) {
 
         long expiredReq = currentTime - windowSize;
 
